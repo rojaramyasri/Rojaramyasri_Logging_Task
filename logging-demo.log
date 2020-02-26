@@ -1,0 +1,7 @@
+2020-02-26 19:51:22 INFO  App:14 - Hello World!
+2020-02-26 19:56:58 INFO  App:14 - Hello World!
+2020-02-26 19:57:13 INFO  Client_Application_Construction_Cost:15 - Enter the details for the following:
+ 1.Standarad of Materials 2.Total area of house (in square feet only) 3.Automated house(True or False)
+2020-02-26 19:58:54 INFO  Client_Application_Construction_Cost:15 - Enter the details for the following:
+ 1.Standarad of Materials 2.Total area of house (in square feet only) 3.Automated house(True or False)
+2020-02-26 19:59:26 INFO  Client_Application_Construction_Cost:21 - Total Construction Cost is:482600.0

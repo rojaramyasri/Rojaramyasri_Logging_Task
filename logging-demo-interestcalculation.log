@@ -1,0 +1,6 @@
+2020-02-26 20:16:07 INFO  Client_Application_InterestCalculation:11 - Enter Your Choice 1.Simple interest 2.Compound Interest
+2020-02-26 20:16:20 INFO  Client_Application_InterestCalculation:18 - Enter Principle Amount, Time( in months), and Rate of Interest
+2020-02-26 20:16:45 INFO  Client_Application_InterestCalculation:23 - Simple Interest is: 13629.6
+2020-02-26 20:17:31 INFO  Client_Application_InterestCalculation:11 - Enter Your Choice 1.Simple interest 2.Compound Interest
+2020-02-26 20:17:39 INFO  Client_Application_InterestCalculation:30 - Enter Principle Amount, Time( in months), and Rate of Interest,Number of Compounding periods
+2020-02-26 20:17:57 INFO  Client_Application_InterestCalculation:36 - Compound Interest is: 8.824907333255407E156
